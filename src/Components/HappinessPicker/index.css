@@ -1,0 +1,20 @@
+  .selectButton{
+    padding: 10px;
+    cursor: pointer;
+  
+  }
+  .buttonGroup{
+    padding: 10px;
+    margin-top: 2px;
+    position:relative;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .active {
+    background-color: blue;
+  }
+  
+  
